@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="@string/search"
+    android:hint="@string/search"
+    android:searchSuggestThreshold="1"
+    android:searchSuggestAuthority="com.example.movery.provider.MovieProvider"
+    android:searchSuggestSelection="title LIKE ? OR year LIKE ?"
+    android:voiceSearchMode="showVoiceSearchButton|launchRecognizer"
+    android:voiceLanguageModel="free_form">
+    <action android:name="android.intent.action.SEARCH" />
+    <action android:name="android.intent.action.SEARCH_LONG_PRESS" />
+    <action android:name="android.speech.action.RECOGNIZE_SPEECH" />
+    <category android:name="android.intent.category.DEFAULT" />
+    <category android:name="android.intent.category.SEARCH" />
+    <category android:name="android.intent.category.VOICE" />
+</searchable>
+

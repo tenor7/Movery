@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@menu/ic_home"
+        android:enabled="true"
+        android:title="главная"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/search"
+        android:icon="@menu/ic_search"
+        android:enabled="true"
+        android:title="поиск"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/bookmark"
+        android:icon="@menu/ic_bookmark"
+        android:title="закладки"
+        android:enabled="true"
+        app:showAsAction="ifRoom" />
+</menu>

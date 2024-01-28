@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+    </style>
+    <style name="MySearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <item name="android:editTextColor">@android:color/white</item>
+        <item name="android:textColorHint">@color/searchText</item>
+    </style>
+    <style name="CustomChipChoice" parent="@style/Widget.MaterialComponents.Chip.Choice">
+        <item name="chipBackgroundColor">@drawable/background_color_chip_state_list</item>
+        <item name="android:textColor">@drawable/text_color_chip_state_list</item>
+    </style>
+</resources>

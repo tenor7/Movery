@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movery</string>
+    <string name="bookmark">Закладки</string>
+    <string name="search">Поиск</string>
+    <string name="searchViewString">Search</string>
+    <string name="recent">Популярное</string>
+    <string name="popular">Престижные</string>
+    <string name="more">еще</string>
+    <string name="account">Аккаунт</string>
+    <string name="accountName">ProfileName</string>
+    <string name="myAccText">Moй аккаунт\n\nВнесите изменнения в свой аккаунт</string>
+    <string name="authorizationLine"><u>Авторизация</u></string>
+    <string name="authorization">Авторизация</string>
+    <string name="registrationLine"><u>Регистрация</u></string>
+    <string name="registration">Регистрация</string>
+    <string name="logOut"><u>Выйти из аккаунта</u></string>
+    <string name="not_logged_in"><u>Вы не авторизованы</u></string>
+    <string name="registr">Зарегистрироваться</string>
+    <string name="Do_you_have_an_account">Уже зарегистрированы?</string>
+    <string name="putYourRating">Поставьте\nсвою оценку</string>
+</resources>

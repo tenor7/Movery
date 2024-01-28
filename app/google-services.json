@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "409852703633",
+    "firebase_url": "https://movery-bf760-default-rtdb.firebaseio.com",
+    "project_id": "movery-bf760",
+    "storage_bucket": "movery-bf760.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409852703633:android:24449c1ac4c7484601a030",
+        "android_client_info": {
+          "package_name": "com.example.movery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409852703633-s827e9ck4o2408afb5j04uk1il2uhd52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd8JX7nxngfpzJL1qOe7TgE3U8c1jPvYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409852703633-s827e9ck4o2408afb5j04uk1il2uhd52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
